@@ -1,0 +1,15 @@
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\bin\Debug\net7.0\Задача.exe
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\bin\Debug\net7.0\Задача.deps.json
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\bin\Debug\net7.0\Задача.runtimeconfig.json
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\bin\Debug\net7.0\Задача.dll
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\bin\Debug\net7.0\Задача.pdb
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\Задача.csproj.AssemblyReference.cache
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\Задача.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\Задача.AssemblyInfoInputs.cache
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\Задача.AssemblyInfo.cs
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\Задача.csproj.CoreCompileInputs.cache
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\Задача.dll
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\refint\Задача.dll
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\Задача.pdb
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\Задача.genruntimeconfig.cache
+D:\Тестировщик Geek Brains\Финальная КР по основному блоку\Final_Control_Work_on_the_main\Задача\obj\Debug\net7.0\ref\Задача.dll
